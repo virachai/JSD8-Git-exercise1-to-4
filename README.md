@@ -1,3 +1,3 @@
-# JSD8 Git Exercise 1 to 4
+# My First Git Project
 
-by Virachai Wongsena
+This is my first Git project!
