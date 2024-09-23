@@ -1,3 +1,3 @@
-# JSD8 Git Exercise 1to 4
+# JSD8 Git Exercise 1 to 4
 
 by Virachai Wongsena
